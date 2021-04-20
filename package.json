@@ -1,0 +1,20 @@
+{
+  "name": "server-deployment-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritzoosk/server-deployment-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ritzoosk/server-deployment-practice/issues"
+  },
+  "homepage": "https://github.com/Ritzoosk/server-deployment-practice#readme"
+}
